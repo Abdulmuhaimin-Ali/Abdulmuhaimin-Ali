@@ -7,7 +7,7 @@ EDUCATION:
 - Fanshawe College: Computer Programming Analysis 2nd year.
 
 COMPETITIONS:
-- Nvidia AI Hackathon (Ai Gardening Helper)
+
 
 
 MY TECH STACK:
