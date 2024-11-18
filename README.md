@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like to build, I hack away at real world problems and create user freindly solutions.
+I like to build and hack away at real world problems to create user freindly solutions.
 
 
 EDUCATION:
