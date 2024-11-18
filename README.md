@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am programming who loves writing code to solve real world problems. If presented with a problem I will come up with well documented solution that will make both parties happy. I code everyday as you can see on my github activity.
+I like to build, I hack away at real world problems and create user freindly solutions.
 
 
 EDUCATION:
