@@ -8,6 +8,8 @@ EDUCATION:
 
 COMPETITIONS:
 
+UOttawaHackathon 1st place
+
 
 
 MY TECH STACK:
