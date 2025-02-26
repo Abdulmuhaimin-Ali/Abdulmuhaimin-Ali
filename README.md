@@ -8,5 +8,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
+
+
+
 ### 🛠 Languages & Tools  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)](https://github.com/Abdulmuhaimin-Ali)
