@@ -9,3 +9,4 @@
 
 
 ### 🛠 Languages & Tools  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)](https://github.com/Abdulmuhaimin-Ali)
