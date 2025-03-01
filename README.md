@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhaimin 👋</h1>
+<h1 align="center">Hi, I'm Abdul 👋</h1>
 
 🏆 UOttawa Hackathon 1st Place  
 🏢 Software Engineer @ OEC (Previously @ Big Blue Bubble)  
