@@ -6,7 +6,7 @@ A backend developer with experience in React. Software engineering is my passion
 
 ### Education
 
-Fanshawe College | Computer Programming and Analysis | 4.0 GPA
+![Fanshawe Icon]("https://seeklogo.com/images/F/fanshawe-college-logo-7837AF18B8-seeklogo.com.png") Fanshawe College | Computer Programming and Analysis | 4.0 GPA
 <img src="https://seeklogo.com/images/F/fanshawe-college-logo-7837AF18B8-seeklogo.com.png" alt="Fanshawe College Logo" width="25">
 
 
