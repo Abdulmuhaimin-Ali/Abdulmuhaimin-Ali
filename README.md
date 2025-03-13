@@ -2,18 +2,21 @@
 
 I am a backend developer with experience in React. Software engineering is my passion, and plan to continue my education at Western University.
 
+
+
 <h2>Education</h2>
 <ul>
   <img src="https://www.brandsoftheworld.com/logo/fanshawe-college-0?original=1" alt="Fanshawe College Icon"> Fanshawe College | Computer Programming and Analysis | 4.0 GPA
 </ul>
 
+
+
 <h2>Competitions</h2>
 🏆 UOttawa Hackathon 1st Place (Developed an AI-powered scheduling app)  
 
-<h2>More About Me</h2>
-🏢 Software Engineer @ OEC (Previously @ Big Blue Bubble)  
-🌱 Learning: Data Engineering, Distributed Systems, Scalable Architecture  
-⚡ Interests: Weightlifting, Chess, Basketball, Beethoven  
+
+
+<h2>Contact</h2>
 📫 Email me at **a_ali217595@fanshaweonline.ca**  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)
 
