@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul 👋</h1>
 
-I am a backend developer with experience in React. Software engineering is my passion, and plan to continue my education at Western University.
+A backend developer with experience in React. Software engineering is my passion, and plan to continue my education at Western University.
 
 
 
