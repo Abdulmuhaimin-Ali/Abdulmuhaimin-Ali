@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul 👋</h1>
 
-A backend developer with experience in React. Software engineering is my passion, and I plan to continue my education to get Masters.
+A backend developer with experience in React. Software engineering is my passion, and I plan to continue my education to get a Masters.
 
 ### Education
 
