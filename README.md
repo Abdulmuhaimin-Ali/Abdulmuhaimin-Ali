@@ -6,7 +6,7 @@ A backend developer with experience in React. Software engineering is my passion
 
 <ul>
   <li>
-    <img src="./images/fanshawe_logo.png" alt="Fanshawe Logo" width="20"/>
+    <img src="./images/fanshawe_logo.png" alt="Fanshawe Logo" width="15"/>
     Fanshawe College | Computer Programming and Analysis | 4.0 GPA
   </li>
 </ul>
