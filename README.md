@@ -4,9 +4,9 @@ I am a backend developer with experience in React. Software engineering is my pa
 
 
 
-<h2>Education</h2>
+Education
 <ul>
-  <img src="https://www.brandsoftheworld.com/logo/fanshawe-college-0?original=1" alt="Fanshawe College Icon"> Fanshawe College | Computer Programming and Analysis | 4.0 GPA
+  [Fanshawe College Icon]("https://www.brandsoftheworld.com/logo/fanshawe-college-0?original=1") Fanshawe College | Computer Programming and Analysis | 4.0 GPA
 </ul>
 
 
