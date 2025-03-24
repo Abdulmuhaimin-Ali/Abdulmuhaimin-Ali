@@ -25,8 +25,9 @@ Experienced backend developer with 2 years of hands-on production expertise. Pas
 
 ### Contact
 
-📫 **Email:** a_ali217595@fanshaweonline.ca  
+
 🔗 **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**
+📫 **Email:** a_ali217595@fanshaweonline.ca  
 <br>
 ### 🛠 Languages & Tools
 
