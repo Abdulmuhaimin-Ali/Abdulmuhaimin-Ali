@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Abdul 👋</h1>
 
 Experienced backend developer with 2 years of hands-on production expertise. Passionate about building scalable solutions and committed to continuous growth, aiming to pursue a Master's in Distrubuted Systems.
+
 <br>
+
 ### Education
 
 <ul>
@@ -10,13 +12,17 @@ Experienced backend developer with 2 years of hands-on production expertise. Pas
     Fanshawe College | Computer Programming and Analysis | 4.0 GPA
   </li>
 </ul>
+
 <br>
+
 ### Competitions
 
 <ul>
   <li>UOttawa Hackathon 1st Place (Dice Roll on Chain)</li>
 </ul>
+
 <br>
+
 ### Contact
 
 📫 **Email:** a_ali217595@fanshaweonline.ca  
