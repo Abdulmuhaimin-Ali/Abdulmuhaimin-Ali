@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul 👋</h1>
 
-A backend developer with experience in React. Software engineering is my passion, and I plan to continue my education to get a Masters.
-
+Experienced backend developer with 2 years of hands-on production expertise. Passionate about building scalable solutions and committed to continuous growth, aiming to pursue a Master's in Distrubuted Systems.
+<br>
 ### Education
 
 <ul>
@@ -10,18 +10,18 @@ A backend developer with experience in React. Software engineering is my passion
     Fanshawe College | Computer Programming and Analysis | 4.0 GPA
   </li>
 </ul>
-
+<br>
 ### Competitions
 
 <ul>
   <li>UOttawa Hackathon 1st Place (Dice Roll on Chain)</li>
 </ul>
-
+<br>
 ### Contact
 
 📫 **Email:** a_ali217595@fanshaweonline.ca  
 🔗 **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**
-
+<br>
 ### 🛠 Languages & Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)](https://github.com/Abdulmuhaimin-Ali)  
