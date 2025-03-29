@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul 👋</h1>
 
-Experienced backend developer with 2 years of hands-on production expertise. Passionate about building scalable solutions and committed to continuous growth, aiming to pursue a Master's in Distrubuted Systems.
+Seasoned backend developer with 2 years of experience. Software Engineering is my passion. I plan to get my Master's in Distributed Systems.
 
 <br>
 
