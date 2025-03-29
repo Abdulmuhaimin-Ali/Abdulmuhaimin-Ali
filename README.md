@@ -41,7 +41,7 @@
 ## 💬 Let's Connect!
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**  
-- 📧 ** Email: a_ali217595@fanshaweonline.ca
+- 📧 a_ali217595@fanshaweonline.ca
 
 ---
 
