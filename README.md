@@ -1,36 +1,35 @@
-<h1 align="center">Hi, I'm Abdul swe @OEConnection👋</h1>
+# Hey there! I'm Abdulmuhaimin Ali 👋 Software Engineer @ OEConnection | Previously Software Engineer @ Big Blue Bubble
 
-Seasoned backend developer with 2 years of experience. Software Engineering is my passion. I plan to get my Master's in Distributed Systems.
+Passionate about building scalable backend systems and solving real-world problems. Currently exploring distributed systems and aiming to pursue a Master's in the field.
 
-<br>
+---
 
-### Education
+## 🎓 Education
 
-<ul>
-  <li>
-    <img src="./images/fanshawe_logo.png" alt="Fanshawe Logo" width="15"/>
-    Fanshawe College | Computer Programming and Analysis | 4.0 GPA
-  </li>
-</ul>
+- 🏆 **Fanshawe College**  
+  *Computer Programming and Analysis | 4.0 GPA*  
 
-<br>
+---
 
-### Competitions
+## 📚 Competitions & Achievements
 
-<ul>
-  <li>UOttawa Hackathon 1st Place (Dice Roll on Chain)</li>
-</ul>
+- 🥇 **1st Place** at UOttawa Hackathon - Built a blockchain-powered dice roll game using StarkNet.
 
-<br>
+---
 
-### Contact
+## 💌 Contact Me
 
+- **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**  
+- **Email:** [a_ali217595@fanshaweonline.ca](mailto:a_ali217595@fanshaweonline.ca)  
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**
-📫 **Email:** a_ali217595@fanshaweonline.ca  
-<br>
-### 🛠 Languages & Tools
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)](https://github.com/Abdulmuhaimin-Ali)  
-<br>
+## 🛠 Languages & Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulmuhaimin-Ali&color=blue&style=flat)
+
+---
+
+Let's connect and build something amazing together! 🚀
