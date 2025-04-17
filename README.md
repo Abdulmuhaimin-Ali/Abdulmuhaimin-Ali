@@ -1,33 +1,33 @@
-<h1 align="center">🚀 Hey there! I'm Abdulmuhaimin Ali 👋</h1>
-<p align="center">Software Engineer @ OEConnection | Previously Software Engineer @ Big Blue Bubble</p>
-<p align="center">Passionate about building scalable backend systems and exploring distributed systems.</p>
+<h1 align="center">Hey, I'm Abdulmuhaimin Ali 👋</h1>
+<p align="center">Software Engineer @ OEConnection | Formerly @ Big Blue Bubble</p>
+<p align="center">Building scalable backend systems. Exploring distributed systems. Obsessed with learning.</p>
 
 ---
 
 ## 🌱 About Me
 
-- 🧑‍💻 **Backend Developer:** 2+ years of experience building scalable solutions using C#, .NET, and Azure.  
-- 📖 **Life-Long Learner:** Exploring distributed systems and aiming to pursue a Master's in the field.  
-- 🏆 **Hackathon Winner:** 1st Place at UOttawa Hackathon with a blockchain-powered dice roll game on StarkNet.  
-- 💡 **Problem Solver:** Committed to tackling real-world challenges through technology.  
+- 🧑‍💻 **Backend Engineer:** 2+ years of experience with C#, .NET, and Azure. Focused on performance, scalability, and reliability.  
+- 🎯 **Focused Learner:** Deep diving into distributed systems. Eyeing a Master’s to go deeper.  
+- 🏆 **Hackathon Winner:** Built a blockchain-based dice roll game on StarkNet — took 1st place at UOttawa Hackathon.  
+- 💡 **Problem Solver:** Love solving real-world problems with code.
 
 ---
 
 ## 🧰 Tech Stack
 
 - **Languages:** C#, Python, JavaScript  
-- **Frameworks & Libraries:** .NET, React, Node.js  
+- **Frameworks:** .NET, React, Node.js  
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes  
 - **Databases:** SQL Server, PostgreSQL, MongoDB  
-- **Other:** Git, CI/CD Pipelines, Event-Driven Systems  
+- **Other:** Git, CI/CD, Event-Driven Systems  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **UOttawa Hackathon:** Built and deployed a blockchain-powered dice roll game using StarkNet.  
-- 🛡️ **Big Blue Bubble:** Contributed to game development using robust backend architectures.  
-- 🚀 **OEConnection:** Developed scalable APIs and optimized system performance.  
+- 🚀 **OEConnection:** Built scalable APIs. Crushed performance bottlenecks.  
+- 🎮 **Big Blue Bubble:** Shipped production-ready backend architecture for games.  
+- 🥇 **Hackathon Champ:** Blockchain dice game on StarkNet. (Yes, it worked. Yes, it was awesome.)
 
 ---
 
@@ -38,9 +38,9 @@
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)**  
+- [LinkedIn](https://www.linkedin.com/in/abdulmuhaimin-ali/)  
 - 📧 a_ali217595@fanshaweonline.ca
 
 ---
@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&theme=transparent)  
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulmuhaimin-Ali&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulmuhaimin-Ali&color=blue&style=flat)
 
 ---
 
-<p align="center">🌟 Curious, driven, and excited to build the future of tech. Let's connect and create something amazing! 🚀</p>
+<p align="center">Driven. Curious. Builder. Let’s create something legendary.</p>
