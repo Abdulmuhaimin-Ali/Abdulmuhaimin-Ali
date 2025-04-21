@@ -6,9 +6,8 @@
 
 ## 🌱 About Me
 
-- 🧑‍💻 **Backend Engineer:** 2+ years of experience with C#, .NET, and Azure. Focused on performance, scalability, and reliability.  
+- 🧑‍💻 **Backend Engineer:** Expereinced backend-developer with the React skills to match that. Focused on performance, scalability, and reliability.  
 - 🎯 **Focused Learner:** Deep diving into distributed systems. Eyeing a Master’s to go deeper.  
-- 🏆 **Hackathon Winner:** Built a blockchain-based dice roll game on StarkNet — took 1st place at UOttawa Hackathon.  
 - 💡 **Problem Solver:** Love solving real-world problems with code.
 
 ---
