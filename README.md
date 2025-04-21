@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-- 🧑‍💻 **Backend Engineer:** Expereinced backend-developer with the React skills to match. Focused on performance, scalability, and reliability.  
+- 🧑‍💻 **Backend Engineer:** Expereinced backend-developer React skills to match. Focused on performance, scalability, and reliability.  
 - 🎯 **Focused Learner:** Deep diving into distributed systems. Eyeing a Master’s to go deeper.  
 - 💡 **Problem Solver:** Love solving real-world problems with code.
 
