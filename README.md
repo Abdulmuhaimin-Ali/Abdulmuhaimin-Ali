@@ -34,7 +34,7 @@ https://starfish-app-ppb7i.ondigitalocean.app/
 ![Android](https://img.shields.io/badge/-android-black?style=for-the-badge&logo=android)
 
 ### &nbsp;GitHub Analytics
-<p align="center">
+<p align="left">
 <a href="https://github.com/Abdulmuhaimin-Ali">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&langs_count=8&theme=algolia"/>
 
