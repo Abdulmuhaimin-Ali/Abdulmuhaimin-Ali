@@ -15,7 +15,7 @@ https://starfish-app-ppb7i.ondigitalocean.app/
 
 ## Frontend
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+
 
 ## Backend
 ![Spring](https://img.shields.io/badge/spring%20-%2343853D.svg?&style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -29,9 +29,8 @@ https://starfish-app-ppb7i.ondigitalocean.app/
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Operating Systems
-![Windows](https://img.shields.io/badge/-windows-black?style=for-the-badge&logo=windows)
-![Fedora](https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora)
-![Android](https://img.shields.io/badge/-android-black?style=for-the-badge&logo=android)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+
 
 ### &nbsp;GitHub Analytics
 <p align="left">
