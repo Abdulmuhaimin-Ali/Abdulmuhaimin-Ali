@@ -1,5 +1,8 @@
 ### &nbsp; Hi, there! I am Abdulmuhaimin Ali
 
+About Me:
+I am a backend developer with experience in react. I am passionate about solving algorithmic problems using C++. I plan to continue my education to get a Master at University of Western.
+
 <!-- 💡 &nbsp;New Grad - Actively Looking for an opportunity as a software developer.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at abdulali115h@gmail.com! I'll try to respond as soon as I can. -->
 <!-- 📄 &nbsp;Please have a look at my [Online Résumé](http://starfish-app-ppb7i.ondigitalocean.app/) for more details about me. I'm open to feedback and suggestions! -->
