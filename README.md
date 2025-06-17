@@ -8,7 +8,6 @@ I am a backend developer with experience in react. I am passionate about solving
  - Dean's Honour Roll
  - ICPC Regionals
 
-### 🛠 &nbsp;Tech Stack
 
 ## Languages
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)&nbsp;
