@@ -1,6 +1,6 @@
 
 ## About Me:
-I am a backend developer with experience in react. I am passionate about solving algorithmic problems using C++. I plan to continue my education to get a Masters.
+I am a backend developer with experience in react. Computer science is my passion. I plan to continue my education to get a Masters.
 
 
 ## Acheivements:
