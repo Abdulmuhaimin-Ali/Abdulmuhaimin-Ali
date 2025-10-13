@@ -22,26 +22,20 @@ I am a backend developer with experience in react. Computer science is my passio
 
 
 ## Backend
-![Spring](https://img.shields.io/badge/spring%20-%2343853D.svg?&style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.net%20-%2343853D.svg?&style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring%20-%2343853D.svg?&style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2333f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
-
-### &nbsp;GitHub Analytics
-<p align="left">
-<a href="https://github.com/Abdulmuhaimin-Ali">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulmuhaimin-Ali&layout=compact&langs_count=8&theme=algolia"/>
-
-</a>
 <br>
 <a href="https://github.com/Abdulmuhaimin-Ali">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulmuhaimin-Ali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
