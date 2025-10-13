@@ -10,8 +10,8 @@ I am a backend developer with experience in react. Computer science is my passio
 
 
 ## Languages
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?&style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
