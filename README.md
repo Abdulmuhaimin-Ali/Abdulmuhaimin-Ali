@@ -9,17 +9,31 @@ Backend developer with React experience and a passion for computer science. I lo
 
 
 ## Languages:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ## My Stack
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2333f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-%230512AD.svg?&style=for-the-badge&logo=dot-net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2333f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/microsoft_sql_server-%230058AD.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
 
 
 ## Github Analytics:
