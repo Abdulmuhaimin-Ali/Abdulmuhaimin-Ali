@@ -8,7 +8,6 @@ Backend developer with React experience and a passion for computer science. I lo
  - ICPC Regionals
 
 
-## Languages:
 <div style="display: flex; align-items: center; gap: 10px;">
   <h2 style="margin: 0;">Languages:</h2>
   <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B"/>
@@ -26,7 +25,7 @@ Backend developer with React experience and a passion for computer science. I lo
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dotnet.svg" alt=".NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
