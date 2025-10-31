@@ -16,6 +16,7 @@ Backend developer with React experience and a passion for computer science. I lo
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </div>
 
 ## My Stack
