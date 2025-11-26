@@ -1,6 +1,6 @@
 
 ## About Me:
-Backend developer with React experience and a passion for computer science. I love solving complex problems with fast, efficient algorithms and plan to pursue a Master’s to deepen my expertise. 
+Backend developer with React experience and a passion for computer science. I love solving complex problems with fast, efficient algorithms I plan to pursue a Master’s to deepen my expertise. 
 
 ## Acheivements:
  - UOttaHack 1st place
