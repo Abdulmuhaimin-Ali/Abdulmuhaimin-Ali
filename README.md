@@ -2,4 +2,4 @@ I'm currently a student at the Fanshawe College/University of Western, a Softwar
 
 Checkout some of my projects below, my favourite is a chess model trained using RL.
 
-Beyond programming, I love going to the gym, smash bros, and anime
+Beyond programming, I love going to the gym, chess, and anime
